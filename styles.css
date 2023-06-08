@@ -80,7 +80,7 @@ img {
 }
 
 .buttons :hover {
-  /* I'm coming back to this */
+  width: 15.5em;
 }
 
 .ios {
